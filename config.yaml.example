@@ -1,0 +1,13 @@
+---
+jira:
+  username: username
+  password: password
+  feed_url: http://my.jira.installation/activity?url+for+activity+stream+rss
+#  poll_frequency: 30
+hipchat:
+  token: 12345
+  room: My Chat Room Name
+  label: JIRABot
+#  color: purple
+
+# vim: set filetype=yaml :
